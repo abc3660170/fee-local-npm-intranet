@@ -1,5 +1,5 @@
 {
-  "name": "fee-local-npm",
+  "name": "fee-local-npm-intranet",
   "version": "2.2.4",
   "description": "Local and offline-first npm mirror",
   "main": "lib/index.js",
